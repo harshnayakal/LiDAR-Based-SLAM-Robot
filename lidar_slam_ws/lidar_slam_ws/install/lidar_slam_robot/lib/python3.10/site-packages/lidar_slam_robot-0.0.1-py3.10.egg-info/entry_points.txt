@@ -1,0 +1,3 @@
+[console_scripts]
+teleop_controller = lidar_slam_robot.teleop_controller:main
+
